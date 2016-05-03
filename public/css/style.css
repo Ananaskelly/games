@@ -261,5 +261,6 @@ body {
     font-size: 12pt;
     margin: 0;
 }
-
-
+.error-alert {
+   display: none; 
+}
