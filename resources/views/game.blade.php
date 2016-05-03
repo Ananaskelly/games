@@ -379,6 +379,12 @@
                             <i class="history"></i>
                         </div>
                     </div>
+                    <div class="alert alert-info alert-dismissible error-alert" role="alert">
+                        <button type="button" class="close" data-dismiss="alert" aria-label="true">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                        <strong id="error"></strong>
+                    </div>
                     <br>
                     <button style="font-size: 26pt;margin-bottom: 10px" class="col-xs-offset-9 giveUp btn btn-danger">
                         give up
